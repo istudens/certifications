@@ -7,14 +7,10 @@ image:splash_wildflylogo_small.png[WildFly, align="center"]
 [[introduction]]
 == Introduction
 As required by the https://www.eclipse.org/legal/tck.php[Eclipse Foundation Technology Compatibility Kit License],
-following is a summary of the TCK results for selected specifications from the release of
-https://github.com/eclipse/microprofile/releases/tag/7.0[MicroProfile 7.0]. This summary contains
-all specifications defined in https://github.com/eclipse/microprofile/releases/tag/7.0[MicroProfile
-7.0] except for MicroProfile Metrics which is not implemented by WildFly. WildFly does not claim to be a
-compatible implementation of https://github.com/eclipse/microprofile/releases/tag/7.0[MicroProfile
+following is a summary of the TCK results for the release of https://github.com/eclipse/microprofile/releases/tag/7.0[MicroProfile
 7.0].
 
-=== WildFly, Certification Summary
+=== WildFly Certification Summary
 ----
 Date:  Fri Jan 10 12:16:35 AM CET 2025
 Product Name:  WildFly
@@ -29,9 +25,9 @@ Specification Name, Version and download URL (except MicroProfile Metrics):
 https://download.eclipse.org/microprofile/microprofile-7.0/microprofile-spec-7.0.pdf[MicroProfile 7.0]
 
 Public URL of TCK Results Summary:
-https://github.com/wildfly/certifications/blob/MP7.0/WildFly_35.0.0.Final/microprofile-7.0/microprofile-7.0-selected-specifications-certification.adoc[WildFly 35.0.0.Final TCK results]
+https://github.com/wildfly/certifications/blob/MP7.0/WildFly_35.0.0.Final/microprofile-7.0/microprofile-7.0-full-certification.adoc[WildFly 35.0.0.Final TCK results]
 
 === TCK Test Results
 
-- link:microprofile-7.0-selected-specifications-jdk-17.0.13.adoc[Selected TCKs Test Results JDK 17.0.13]
-- link:microprofile-7.0-selected-specifications-jdk-21.0.5.adoc[Selected TCKs Test Results JDK 21.0.5]
+- link:microprofile-7.0-jdk-17.0.13.adoc[Platform TCK Test Results JDK 17.0.13]
+- link:microprofile-7.0-jdk-21.0.5.adoc[Platform TCK Test Results JDK 21.0.5]

@@ -1,4 +1,4 @@
-= Selected MicroProfile TCKs Test results JDK 21.0.5
+= Platform TCK Test results JDK 21.0.5
 
 == Environment
 

@@ -1,4 +1,4 @@
-= Selected MicroProfile TCKs Test results JDK 17.0.13
+= Platform TCK Test results JDK 17.0.13
 
 == Environment
 
