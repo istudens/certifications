@@ -29,5 +29,5 @@ https://github.com/wildfly/certifications/blob/MP7.0/WildFly_35.0.0.Final/microp
 
 === TCK Test Results
 
-- link:microprofile-7.0-jdk-17.0.13.adoc[Platform TCK Test Results JDK 17.0.13]
+- link:microprofile-7.0-jdk-17.0.12.adoc[Platform TCK Test Results JDK 17.0.12]
 - link:microprofile-7.0-jdk-21.0.5.adoc[Platform TCK Test Results JDK 21.0.5]
